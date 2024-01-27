@@ -1,0 +1,15 @@
+import = [ "~/.config/alacritty/catppuccin-mocha.toml" ]
+
+[shell]
+program = "/usr/bin/fish"
+
+
+[window]
+padding = { x = 0, y = 0 }
+dynamic_padding = true
+opacity = 0.92
+
+[font]
+normal = { family = "Iosevka Nerd Font", style = "Regular" }
+size = 16
+builtin_box_drawing = false

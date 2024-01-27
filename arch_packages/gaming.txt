@@ -1,0 +1,3 @@
+nvidia-dkms
+steam
+lutris

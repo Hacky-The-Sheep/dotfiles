@@ -1,0 +1,12 @@
+alsa-utils
+brightnessctl
+dunst
+hyprland
+grim
+rofi
+rofimoji
+slurp
+swappy
+swaylock
+swww
+waybar-cava

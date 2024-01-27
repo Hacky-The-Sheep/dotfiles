@@ -1,0 +1,7 @@
+ffuf-bin
+gobuster-bin
+john
+nmap
+rlwrap
+hydra
+wireshark-qt
