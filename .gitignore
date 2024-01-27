@@ -39,3 +39,7 @@ openvpn
 scripts
 .config/.gsd-keyboard.settings-ported
 .config/eos-update-notifier.first_init
+books
+.parallel
+.config
+paru/
