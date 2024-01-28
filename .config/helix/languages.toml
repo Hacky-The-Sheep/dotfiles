@@ -6,6 +6,11 @@ file-types = ["py", "pyi", "py3", "pyw", ".pythonstartup", ".pythonrc"]
 shebangs = ["python"] 
 roots = [".", "pyproject.toml", "pyrightconfig.json"]
 comment-token = "#" 
-language-servers = ["ruff-lsp"]
+language-servers = [ {name = "ruff-lsp"} ]
 formatter = { command = "ruff format ", args = ["--stdin"] }
 auto-format = true
+
+[language-server.ruff-lsp] 
+command = "ruff-lsp" 
+args = [] 
+config = {}
