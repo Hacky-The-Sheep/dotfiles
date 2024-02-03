@@ -1,0 +1,4 @@
+lightworks
+lutris
+nvidia-dkms
+steam
