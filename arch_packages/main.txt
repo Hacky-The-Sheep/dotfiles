@@ -1,9 +1,7 @@
-betterdiscord-installer-bin
 btop
 catppuccin-cursors-mocha
 catppuccin-gtk-theme-mocha
 delve
-discord
 eza
 fastfetch
 fish
