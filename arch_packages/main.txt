@@ -9,7 +9,6 @@ fastfetch
 fish
 gnome-browser-connector
 go
-gopls
 helix
 kitty
 mpv
@@ -18,10 +17,7 @@ openvpn
 qbittorrent
 rhythmbox
 ripgrep
-ruff
-ruff-lsp
 rust
-rust-analyzer
 signal-desktop
 simplex-desktop-appimage
 starship
