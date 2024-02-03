@@ -1,9 +1,7 @@
 betterdiscord-installer-bin
-brave-bin
 btop
 catppuccin-cursors-mocha
 catppuccin-gtk-theme-mocha
-cava
 delve
 discord
 eza
