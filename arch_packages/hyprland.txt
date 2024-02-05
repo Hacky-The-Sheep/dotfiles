@@ -9,4 +9,4 @@ slurp
 swappy
 swaylock
 swww
-waybar-cava
+waybar
