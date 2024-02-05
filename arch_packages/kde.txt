@@ -1,0 +1,2 @@
+kde-system-meta
+kde-multimedia-meta
