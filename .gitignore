@@ -46,3 +46,6 @@ paru/
 dotfiles/
 yay/
 .java
+Desktop
+catppuccin-kde/
+.wget-hsts
