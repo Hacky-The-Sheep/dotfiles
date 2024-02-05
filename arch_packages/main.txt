@@ -1,11 +1,8 @@
 btop
-catppuccin-cursors-mocha
-catppuccin-gtk-theme-mocha
 delve
 eza
 fastfetch
 fish
-gnome-browser-connector
 go
 helix
 kitty
@@ -13,7 +10,6 @@ mpv
 obsidian
 openvpn
 qbittorrent
-rhythmbox
 ripgrep
 rust
 signal-desktop
