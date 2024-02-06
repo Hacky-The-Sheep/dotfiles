@@ -49,6 +49,7 @@ yay/
 Desktop
 catppuccin-kde/
 .wget-hsts
+<<<<<<< HEAD
 .hyprland
 .rnd
 FlipperAmiibo/
@@ -59,3 +60,6 @@ mozilla.pdf
 simplex-desktop-appimage/
 .Lightworks.thereCanBeOnlyOne
 Lightworks
+=======
+.gtkrc-2.0
+>>>>>>> 0bbe62d (update ignore)
