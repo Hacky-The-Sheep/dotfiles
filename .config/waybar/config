@@ -1,6 +1,6 @@
 {
 	"layer": "top",
-	"modules-left": [ "hyprland/workspaces", "memory", "custom/home"],
+	"modules-left": [ "hyprland/workspaces", "memory"],
     "modules-center": [ "clock"],
     "modules-right": [
       "network",
@@ -30,11 +30,6 @@
       "interval": 15,
       "format": "{}%",
       "max-length": 10
-    },
-
-    "custom/home": {
-      "format": "Home",
-      "on-click": "bash ~/scripts/home_mode.sh"
     },
 
     "user": {

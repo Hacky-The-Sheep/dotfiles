@@ -60,7 +60,6 @@ tooltip {
 #tray,
 #memory,
 #user,
-#custom-home,
 #backlight {
   background: #000000;
   opacity: 1.0;
@@ -166,11 +165,4 @@ animation-direction:        alternate;
   color: #cba6f7;
   border-radius: 0px 10px 10px 0px;
   margin-right: 5px;
-}
-
-#custom-home {
-  color: #74c7ec;
-  border-radius: 10px 10px 10px 10px;
-  margin-right: 5px;
-  border-left: 5px;
 }
