@@ -9,7 +9,7 @@ alias gitui "gitui -t mocha.ron"
 alias up "sudo pacman -Syu"
 
 # ZelliJ
-alias zj "zellij"
+alias zj zellij
 alias notes "zellij --layout ~/.dotfiles/layouts/notes.kdl"
 alias thm "zellij --layout ~/.dotfiles/layouts/thm.kdl"
 
