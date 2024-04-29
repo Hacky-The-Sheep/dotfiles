@@ -1,3 +1,0 @@
-ttf-iosevka
-ttf-iosevka-aile
-ttf-iosevka-nerd
