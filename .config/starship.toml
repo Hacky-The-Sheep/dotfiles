@@ -1,10 +1,8 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = '''
-[┌───────────────────](yellow)
-[│](green)-> $directory$rust$python$golang
-[│](blue)-> $username-> $hostname$os $git_status
-[└─>](lavender) 
+$os $directory$git_status$rust$python$golang
+[>](yellow) 
 '''
 
 add_newline = true
@@ -22,6 +20,7 @@ disabled = false
 [os.symbols]
 EndeavourOS = " "
 Arch = "󰣇 "
+NixOS = "󱄅 "
 
 # Coding
 [rust]
@@ -75,4 +74,3 @@ surface0 = "#313244"
 base = "#1e1e2e"
 mantle = "#181825"
 crust = "#11111b"
-
