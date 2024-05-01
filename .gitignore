@@ -66,3 +66,7 @@ yay/
 .pulse-cookie
 .steampath
 .steampid
+.config/cef_user_data
+.config/freerdp
+.config/remmina
+.config/unity3d
