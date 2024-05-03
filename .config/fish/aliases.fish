@@ -1,12 +1,15 @@
 # Aliases
-alias ei "exit"
-alias python "python3"
-alias hx "helix"
-alias cat "bat"
+alias ei exit
+alias python python3
+alias hx helix
+alias cat bat
 alias gitui "gitui -t mocha.ron"
 
-# Arch (btw) 
+# Arch (btw) 󰣇
 alias up "sudo pacman -Syu"
+
+# Pandoc 󰏚
+alias pd "pandoc -f markdown-implicit_figures -t latex -o"
 
 # ZelliJ
 alias zj zellij
