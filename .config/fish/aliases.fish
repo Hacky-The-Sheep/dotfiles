@@ -7,6 +7,7 @@ alias gitui "gitui -t mocha.ron"
 
 # Arch (btw) 󰣇
 alias up "sudo pacman -Syu"
+alias down "sudo pacman -Rcns"
 
 # Pandoc 󰏚
 alias pd "pandoc -f markdown-implicit_figures -t latex -o"
