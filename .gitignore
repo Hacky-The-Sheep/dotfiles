@@ -80,3 +80,9 @@ yay/
 .config
 >>>>>>> d24f309 (update ignore)
 .fontconfig
+syn_tv
+syn_mov
+Monero
+.shared-ringdb
+.nv
+.bitmonero
