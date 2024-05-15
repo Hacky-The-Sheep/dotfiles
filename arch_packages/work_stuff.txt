@@ -1,3 +1,0 @@
-libreoffice-still
-remmina-git
-putty-git
