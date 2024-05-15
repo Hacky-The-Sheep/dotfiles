@@ -1,9 +1,12 @@
+bat
 btop
+catppuccin-gtk-theme-mocha
 delve
 eza
 fastfetch
 ffuf-bin
 fish
+gitui
 gnome-browser-connector
 go
 gobuster-bin
