@@ -87,3 +87,6 @@ Syn_TV/
 Videos
 .wget-hsts
 yay/
+.config/monero-project/monero-core.conf
+yay-bin/
+Hyprland/
