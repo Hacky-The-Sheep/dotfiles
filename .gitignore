@@ -15,6 +15,7 @@ coding
 .config/baloofilerc
 .config/BetterDiscord
 .config/BetterDiscord Installer
+.config/calibre
 .config/cef_user_data
 .config/dconf
 .config/discord
@@ -36,6 +37,7 @@ coding
 .config/qBittorrent
 .config/QtProject.conf
 .config/remmina
+.config/simplex
 .config/unity3d
 >>>>>>> d24f309 (update ignore)
 Desktop
@@ -85,4 +87,3 @@ Syn_TV/
 Videos
 .wget-hsts
 yay/
-.config/simplex
