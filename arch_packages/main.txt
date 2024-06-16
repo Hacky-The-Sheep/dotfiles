@@ -7,7 +7,6 @@ fastfetch
 ffuf-bin
 fish
 gitui
-gnome-browser-connector
 go
 gobuster-bin
 gopls

@@ -18,8 +18,9 @@ style = "peach"
 disabled = false
 
 [os.symbols]
-EndeavourOS = " "
 Arch = "󰣇 "
+Artix = " "
+EndeavourOS = " "
 NixOS = "󱄅 "
 
 # Coding
