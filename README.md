@@ -2,7 +2,7 @@
   Dotfiles
   <br>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Artix_Linux_logo.svg/327px-Artix_Linux_logo.svg.png?20220906003448" width="200" height="200" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Artix_Linux_logo.svg/327px-Artix_Linux_logo.svg.png?20220906003448" width="400" height="400" />
   </p>
 </h1>
 
