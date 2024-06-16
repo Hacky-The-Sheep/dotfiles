@@ -2,7 +2,6 @@
 alias ei exit
 alias python python3
 alias hx helix
-alias cat bat
 alias gitui "gitui -t mocha.ron"
 
 # Arch (btw) 󰣇

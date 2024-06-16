@@ -134,3 +134,4 @@ yay-bin/
 .gtkrc-2.0-kde4
 .xsession-errors
 .Xauthority
+.lesshst
