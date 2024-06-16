@@ -1,3 +1,4 @@
+
 bat
 btop
 catppuccin-gtk-theme-mocha
@@ -10,6 +11,7 @@ gitui
 go
 gobuster-bin
 gopls
+gvfs-smb
 helix
 hydra
 john
