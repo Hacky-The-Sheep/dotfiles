@@ -40,4 +40,5 @@ ttf-iosevka-aile
 ttf-iosevka-nerd
 wget
 wireshark-qt
+yt-dlp
 zellij
