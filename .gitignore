@@ -135,3 +135,8 @@ yay-bin/
 .xsession-errors
 .Xauthority
 .lesshst
+.config
+.config
+.rustup
+go
+sshd

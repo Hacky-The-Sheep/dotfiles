@@ -1,4 +1,3 @@
-
 bat
 btop
 catppuccin-gtk-theme-mocha
@@ -10,6 +9,7 @@ fish
 gitui
 go
 gobuster-bin
+golangci-lint-langserver-bin
 gopls
 gvfs-smb
 helix
@@ -18,9 +18,11 @@ john
 kitty
 libreoffice-still
 lldb
+markdown-oxide-git
 marksman
 mpv
 nmap
+openssh-runit
 openvpn
 putty-git
 python-lsp-server
@@ -40,6 +42,7 @@ synology-drive
 ttf-iosevka
 ttf-iosevka-aile
 ttf-iosevka-nerd
+vscode-json-languageserver
 wget
 wireshark-qt
 yt-dlp
